@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/NayaraSilvaS">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=NayaraSilvaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NayaraSilvaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Nay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -15,3 +15,5 @@
 <!-- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif) -->
 
 </div>
+
+  
