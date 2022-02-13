@@ -1,6 +1,6 @@
 ### Olá! eu sou a Nayara Silva 👋
 
-- 🌱 Estudando Técnico em informática
+- 🌱 Cursando Técnico em informática
 
 <div align="center">
   <a href="https://github.com/NayaraSilvaS">
