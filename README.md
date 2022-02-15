@@ -3,6 +3,9 @@
 - 🌱 Cursando Técnico em informática
 - 🎒 Aprendendo Html, css, Dart e Flutter
 
+   <img align="right" alt="Nay-pic" height="150" style="border-radius:50px;"
+   src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif">
+
 <div align="center">
   <a href="https://github.com/NayaraSilvaS">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NayaraSilvaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,8 +18,7 @@
   <img align="center" alt="Nay-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img aling="center" alt="Nay-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img aling="center" alt="Nay-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Nay-pic" height="150" style="border-radius:50px;"
-   src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif">
+
 </div>
   
 <div> 
