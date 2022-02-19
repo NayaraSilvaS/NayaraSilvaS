@@ -20,6 +20,8 @@
   src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif">
 </div>
   
+ ##
+  
 <div> 
   <a href="https://www.instagram.com/nayara.silva.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nayara-silva-6b5957230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
