@@ -47,10 +47,11 @@
 <div> 
  
   ![Snake animation](https://github.com/NayaraSilvaS/NayaraSilvaS/blob/output/github-contribution-grid-snake.svg)
-  
-<img align="center" src="https://c.tenor.com/0yFD9ZSUcusAAAAC/02-zero-two.gif" height="400" width="850" > <br>
  
+  </div>
+   
+   <div>
+<h2 align="center">💖 ~ Obrigado pela visita! ~ 💖</h2>
+<div align="center">
+<img align="center" src="https://c.tenor.com/0yFD9ZSUcusAAAAC/02-zero-two.gif" height="400" width="850" > <br>
 </div>
-  
-
-
