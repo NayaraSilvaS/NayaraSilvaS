@@ -3,7 +3,6 @@
 - 🌱 Cursando Técnico em informática
 - 🎒 Aprendendo Html, css, Dart e Flutter
 
-#
 
 <div align="center">
   <a href="https://github.com/NayaraSilvaS">
