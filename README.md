@@ -12,7 +12,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=6&theme=dracula"/>
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=NayaraSilvaS&theme=dracula&hide_border=false&date_format=j%2Fn%5B%2FY%5D"/>
 
-a
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=NayaraSilvaS&theme=dracula">
+</p> 
+
 
 </div>
 
@@ -25,11 +28,6 @@ a
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-
-
-
-
 
 
   <img align="right" alt="Nay-pic" height="150" style="border-radius:50px;"
@@ -47,16 +45,8 @@ a
 <div> 
   <a href="https://www.instagram.com/nayara.silva.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nayara-silva-6b5957230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-
  
   ![Snake animation](https://github.com/NayaraSilvaS/NayaraSilvaS/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
-  
-  <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
-</p> 
-<hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
