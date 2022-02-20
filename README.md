@@ -3,7 +3,8 @@
 
 - 🌱 Cursando Técnico em informática
 - 🎒 Aprendendo Html, css, Dart e Flutter
-- 
+- 🎉 18 anos
+- 😄 Pronouns: Ela/Dela
 
 
 </div>
