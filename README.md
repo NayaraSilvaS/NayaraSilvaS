@@ -1,6 +1,6 @@
 ## Olá! eu sou a Nayara Silva 👋
 
-<img align="center" src="https://c.tenor.com/0yFD9ZSUcusAAAAC/02-zero-two.gif" height="450" width="1450" > <br>
+<img align="center" src="https://c.tenor.com/0yFD9ZSUcusAAAAC/02-zero-two.gif" height="400" width="1450" > <br>
 
 - 🌱 Cursando Técnico em informática
 - 🎒 Aprendendo Html, css, Dart e Flutter
