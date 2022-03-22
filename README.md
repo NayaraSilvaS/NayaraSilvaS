@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://github.com/NayaraSilvaS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=7&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NayaraSilvaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=NayaraSilvaS&theme=dracula&hide_border=false&date_format=j%2Fn%5B%2FY%5D"/>
   <img height="150em" src="https://github-profile-trophy.vercel.app/?username=NayaraSilvaS&theme=dracula"/>
