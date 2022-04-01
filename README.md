@@ -2,7 +2,7 @@
  
 
 - 🌱 Cursando Técnico em informática
-- 🎒 Aprendendo Html, css, Dart e Flutter
+- 🎒 Aprendendo Html, CSS, JS, Dart e Flutter
 - 🎉 18 anos
 - 😄 Pronouns: She/Her
 
