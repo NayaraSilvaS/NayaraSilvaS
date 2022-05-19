@@ -6,11 +6,10 @@
 - 🎉 18 anos
 - 😄 Pronouns: She/Her
 
-
-</div>
-
  <a href="https://www.instagram.com/nayara.silva.s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nayara-silva-6b5957230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  #
 
   <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -21,23 +20,13 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ </div>
 
-
-
-
-
-
-  <img align="right" alt="Nay-pic" height="150" style="border-radius:50px;"
-  src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif">
+<div>
+  <img src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif" align="right" alt="Nay-pic" height="150" style="border-radius:50px;">
     
-   <img align="left" alt="Nay-pic" height="150" style="border-radius:50px;"
-   src="https://media.giphy.com/media/l2SpY4SJZy8b3BMHK/giphy.gif">
-    
-
-    
+   <img src="https://media.giphy.com/media/l2SpY4SJZy8b3BMHK/giphy.gif" align="left" alt="Nay-pic" height="150" style="border-radius:50px;" > 
 </div>
-
-
 
 <div align="center">
   <a href="https://github.com/NayaraSilvaS">
