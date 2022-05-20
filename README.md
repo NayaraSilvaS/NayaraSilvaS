@@ -21,13 +21,14 @@
   <img align="center" alt="" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  </div>
 <div>
+ 
+ #
 
  <div align="center">
  <img align="left" src="https://media.giphy.com/media/l2SpY4SJZy8b3BMHK/giphy.gif" alt="Nay-pic" height="150" style="border-radius:50px;" > 
- 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=7&theme=dracula"/>
- 
- 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="right" src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif" alt="Nay-pic" height="150" style="border-radius:50px;">
   
   </div>
