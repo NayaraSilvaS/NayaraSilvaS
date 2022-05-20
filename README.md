@@ -18,21 +18,26 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> -->
+  <img align="center" alt="" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  </div>
-
-
 <div>
 
-    
- <img src="https://media.giphy.com/media/l2SpY4SJZy8b3BMHK/giphy.gif" align="left" alt="Nay-pic" height="150" style="border-radius:50px;" > 
+ <div align="center">
+ <img align="left" src="https://media.giphy.com/media/l2SpY4SJZy8b3BMHK/giphy.gif" alt="Nay-pic" height="150" style="border-radius:50px;" > 
  
- <img src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif" align="right" alt="Nay-pic" height="150" style="border-radius:50px;">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=7&theme=dracula"/>
+ 
+ 
+ <img align="right" src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif" alt="Nay-pic" height="150" style="border-radius:50px;">
+  
+  </div>
+ 
+ 
 
 
 <div align="center">
   <a href="https://github.com/NayaraSilvaS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=7&theme=dracula"/>
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NayaraSilvaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=NayaraSilvaS&theme=dracula&hide_border=false&date_format=j%2Fn%5B%2FY%5D"/>
   <img height="150em" src="https://github-profile-trophy.vercel.app/?username=NayaraSilvaS&theme=dracula"/>
