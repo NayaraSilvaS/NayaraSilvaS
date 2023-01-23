@@ -1,7 +1,7 @@
 ## Olá! eu sou a Nayara Silva 👋
  
 - 🌱 Formada - Técnico em informática
-- 📱: Ecperiência e Foco Mobile: Flutter - Dart, Real.io, GIT
+- 📱: Experiência e Foco Mobile: Flutter - Dart, Real.io, GIT
 - 🖥️: Experiência Web: HTML, CSS, JS, PHP, MySQL, GIT
 - 🎉 19 anos
 - 😄 Pronouns: She/Her
