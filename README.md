@@ -3,7 +3,7 @@
 - 🌱 Formada - Técnico em informática
 - 📱: Ecperiência Mobile: Flutter - Dart, Real.io, GIT
 - 🖥️: Experiência Web: HTML, CSS, JS, PHP, MySQL, GIT
-- 🎉 18 anos
+- 🎉 19 anos
 - 😄 Pronouns: She/Her
 
 <div style="display: inline_block>
