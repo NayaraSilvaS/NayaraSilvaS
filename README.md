@@ -39,8 +39,6 @@ target="_blank"></a>
         <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=NayaraSilvaS&theme=dracula&hide_border=false&date_format=j%2Fn%5B%2FY%5D"/>
 <img height="150em" src"https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true">
 </div>
- 
-  ![Snake animation](https://github.com/NayaraSilvaS/NayaraSilvaS/blob/output/github-contribution-grid-snake.svg)
    
    <div>
 <h2 align="center">💖 ~ Obrigado pela visita! ~ 💖</h2>
