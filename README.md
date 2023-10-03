@@ -1,5 +1,8 @@
 ## Olá! eu sou a Nayara Silva
 
+
+ <img align="right" src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif" alt="Nay-pic" height="150" style="border-radius:50px;">
+
 - 🎒 Cursando - Sistemas de informação
 - 🌱 Formada - Técnico em informática
 - 📱 Experiência e Foco Mobile: Flutter - Dart, Real.io, GIT
@@ -32,7 +35,6 @@ target="_blank"></a>
  <div align="center">
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=7&theme=dracula"/>
  
- <img align="right" src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif" alt="Nay-pic" height="150" style="border-radius:50px;">
   
   <a href="https://github.com/NayaraSilvaS">
   
