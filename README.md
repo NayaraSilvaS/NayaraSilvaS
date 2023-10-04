@@ -3,8 +3,8 @@
 
  <img align="right" src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif" alt="Nay-pic" height="150" style="border-radius:50px;">
 
-- 🎒 Cursando - Sistemas de informação
-- 🌱 Formada - Técnico em informática
+- <a href="https://descomplica.com.br/faculdade" target="_blank"> 🎓 Sistemas de informação</a> - jul/2023 - jul/2027
+- <a href="https://epsa.com.br" target="_blank"> 🎓 Tecnico em Informática</a> - jan/2021 - jul/2022
 - 📱 Experiência e Foco Mobile: Flutter - Dart, Real.io, GIT
 - 🖥️ Experiência Web: HTML, CSS, JS, PHP, MySQL, GIT
 - 🎉 20 anos
