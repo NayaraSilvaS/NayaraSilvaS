@@ -7,7 +7,7 @@
 - <a href="https://epsa.com.br" target="_blank"> 🎓 Tecnico em Informática</a> - jan/2021 - jul/2022
 - 📱 Experiência e Foco Mobile: Flutter - Dart, Real.io, GIT
 - 🖥️ Experiência Web: HTML, CSS, JS, PHP, MySQL, GIT
-- 🎉 20 anos
+- 🎉 21 anos
 - 😄 Pronouns: She/Her
 
 <div style="display: inline_block>
