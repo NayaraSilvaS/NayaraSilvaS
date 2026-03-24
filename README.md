@@ -42,9 +42,3 @@ target="_blank"></a>
         <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=NayaraSilvaS&theme=dracula&hide_border=false&date_format=j%2Fn%5B%2FY%5D"/>
 <img height="150em" src"https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true">
 </div>
-   
-   <div>
-<h2 align="center">💖 ~ Obrigado pela visita! ~ 💖</h2>
-<div align="center">
-<img align="center" src="https://c.tenor.com/0yFD9ZSUcusAAAAC/02-zero-two.gif" height="400" width="850" > <br>
-</div>
