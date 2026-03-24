@@ -1,44 +1,64 @@
-## Olá! eu sou a Nayara Silva
+# 👋 Hi, I'm Nayara Silva  
+
+💙 Mobile Developer Flutter  
+🚀 Passionate about building scalable and user-friendly applications  
 
 
- <img align="right" src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif" alt="Nay-pic" height="150" style="border-radius:50px;">
+## 💼 About Me
 
-- <a href="https://descomplica.com.br/faculdade" target="_blank"> 🎓 Sistemas de informação</a> - jul/2023 - jul/2027
-- <a href="https://epsa.com.br" target="_blank"> 🎓 Tecnico em Informática</a> - jan/2021 - jul/2022
-- 📱 Experiência e Foco Mobile: Flutter - Dart, Real.io, GIT
-- 🖥️ Experiência Web: HTML, CSS, JS, PHP, MySQL, GIT
-- 🎉 22 anos
-- 😄 Pronouns: She/Her
+<img align="right" src="https://user-images.githubusercontent.com/99221251/153727272-794fc968-2571-4e6e-b821-b5ecc85733d3.gif" height="150"/>
 
-<div style="display: inline_block>
-<a href="https://www.instagram.com/nayara.silva.s/](https://www.instagram.com/nayara.silva.s/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-target="_blank"></a>
+- 👩‍💻 Mobile Developer (Flutter)
+- 📱 Experience with apps in production
+- 🔗 API integrations & backend communication
+- 🎯 Focused on clean code, UX and performance
+- 🌎 Based in Brazil  
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+- Dart  
+- JavaScript  
+- TypeScript  
+- PHP  
+
+### 📱 Mobile Development
+- Flutter  
+- REST API Integration  
+- UI/UX Improvements  
+- Accessibility  
+- State Management (BLoC)  
+
+### ⚙️ Backend & Tools
+- Node.js  
+- Restify  
+- Git & GitHub  
+- Pull Requests & Code Review  
+
+### ☁️ DevOps & CI/CD
+- Google Cloud Build  
+- Bitrise  
+
+### 🗄️ Databases
+- MySQL  
+- Realm Database  
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NayaraSilvaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+## 🌎 Connect with me
 
 <a href="https://www.linkedin.com/in/nayara-silva-s/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-target="_blank"></a>
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-</div>
+<a href="https://www.instagram.com/nayara.silva.s/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    <img align="center" alt="" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
- </div>
-
- <div align="center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayaraSilvaS&layout=compact&langs_count=7&theme=dracula"/>
- 
-  
-  <a href="https://github.com/NayaraSilvaS">
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NayaraSilvaS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=NayaraSilvaS&theme=dracula&hide_border=false&date_format=j%2Fn%5B%2FY%5D"/>
-<img height="150em" src"https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true">
-</div>
+✨ Always learning and evolving in mobile development
